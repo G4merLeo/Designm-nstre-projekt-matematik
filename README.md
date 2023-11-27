@@ -11,4 +11,9 @@ er det nemmere at kode med Command Pattern.
 Udviklingsprocess
 Vores udviklingsprocess gik på at vi startede med at lære hvordan tkinter fungerede og hvordan vi lavede
 de forskellige ting vi skulle bruge. Derefter begyndte vi at bygge vores kode efter vores valgte designmønster og lave de forskellige klasser. 
-Brugergrænsefladen er bevidst gjort simpel at forstå og vi har lavet store knapper så der ikke er tvivl om hvordan appen bruges.
+
+Brugergrænseflade
+Brugergrænsefladen er bevidst gjort simpel at forstå og vi har lavet store knapper så der ikke er tvivl om hvordan appen bruges. Dette er gjort på baggrund af vores forbrugere, da de højst sandsynligt ikke er velkendte med computere eller tekniske programmer.
+
+Skema over tests af programmet
+![image](https://github.com/G4merLeo/Designm-nstre-projekt-matematik/assets/61724930/34cfdf81-5bbe-4f4c-b85f-e521f22b1927)
